@@ -1,0 +1,10 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://topaztoad.github.io/topaztoad_github_io_zp527_1.txt
+Sitemap: https://topaztoad.github.io/topaztoad_github_io_zp527_14.txt
+Sitemap: https://topaztoad.github.io/topaztoad_github_io_zp527_19.txt
+Sitemap: https://topaztoad.github.io/topaztoad_github_io_zp527_23.txt
+Sitemap: https://topaztoad.github.io/topaztoad_github_io_zp527_28.txt
+Sitemap: https://topaztoad.github.io/topaztoad_github_io_zp527_32.txt
+Sitemap: https://topaztoad.github.io/topaztoad_github_io_zp527_8.txt
